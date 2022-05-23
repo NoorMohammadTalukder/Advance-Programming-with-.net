@@ -1,0 +1,158 @@
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\CV TASK.dll.config
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\CV TASK.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\CV TASK.pdb
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\csc.exe
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\csc.exe.config
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\csc.rsp
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\csi.exe
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\csi.exe.config
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\csi.rsp
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.AppContext.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Console.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.IO.Compression.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Net.Http.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.ValueTuple.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\vbc.exe
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\vbc.exe.config
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\vbc.rsp
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\VBCSCompiler.exe
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\Antlr3.Runtime.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\Newtonsoft.Json.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.Helpers.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.Mvc.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.Optimization.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.Razor.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.WebPages.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.WebPages.Razor.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\WebGrease.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.Helpers.xml
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.Mvc.xml
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.Optimization.xml
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.Razor.xml
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.WebPages.xml
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\System.Web.WebPages.Razor.xml
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\Newtonsoft.Json.xml
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\Antlr3.Runtime.pdb
+C:\Users\sadim\source\repos\CV TASK\CV TASK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sadim\source\repos\CV TASK\CV TASK\obj\Debug\CV TASK.csproj.AssemblyReference.cache
+C:\Users\sadim\source\repos\CV TASK\CV TASK\obj\Debug\CV TASK.csproj.CoreCompileInputs.cache
+C:\Users\sadim\source\repos\CV TASK\CV TASK\obj\Debug\CV TASK.csproj.CopyComplete
+C:\Users\sadim\source\repos\CV TASK\CV TASK\obj\Debug\CV TASK.dll
+C:\Users\sadim\source\repos\CV TASK\CV TASK\obj\Debug\CV TASK.pdb
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\CV TASK.dll.config
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\CV TASK.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\CV TASK.pdb
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\csc.exe
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\csc.exe.config
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\csc.rsp
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\csi.exe
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\csi.exe.config
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\csi.rsp
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.AppContext.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Collections.Immutable.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Console.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Globalization.Calendars.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.IO.Compression.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.IO.FileSystem.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Net.Http.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Net.Sockets.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Reflection.Metadata.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.ValueTuple.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Xml.XPath.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\vbc.exe
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\vbc.exe.config
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\vbc.rsp
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\VBCSCompiler.exe
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\roslyn\VBCSCompiler.exe.config
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\Antlr3.Runtime.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\Microsoft.Web.Infrastructure.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\Newtonsoft.Json.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.Helpers.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.Mvc.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.Optimization.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.Razor.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.WebPages.Deployment.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.WebPages.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.WebPages.Razor.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\WebGrease.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.Helpers.xml
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.Mvc.xml
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.Optimization.xml
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.Razor.xml
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.WebPages.xml
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.WebPages.Deployment.xml
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\System.Web.WebPages.Razor.xml
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\Newtonsoft.Json.xml
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\Antlr3.Runtime.pdb
+D:\Advance Progamming with .net\CV TASK\CV TASK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Advance Progamming with .net\CV TASK\CV TASK\obj\Debug\CV TASK.csproj.AssemblyReference.cache
+D:\Advance Progamming with .net\CV TASK\CV TASK\obj\Debug\CV TASK.csproj.CoreCompileInputs.cache
+D:\Advance Progamming with .net\CV TASK\CV TASK\obj\Debug\CV TASK.csproj.CopyComplete
+D:\Advance Progamming with .net\CV TASK\CV TASK\obj\Debug\CV TASK.dll
+D:\Advance Progamming with .net\CV TASK\CV TASK\obj\Debug\CV TASK.pdb
