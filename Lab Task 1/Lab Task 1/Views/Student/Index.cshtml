@@ -1,0 +1,15 @@
+﻿@model List<Lab_Task_1.Models.Student>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<h1>All ok</h1>
+@{
+    foreach (var st in Model)
+            {
+       <li>@st.Dob</li>
+            }
+     
+}
+

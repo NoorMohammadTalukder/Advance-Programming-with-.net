@@ -10,13 +10,26 @@
     @Html.ValidationMessage("Id")
     <br />
 
-    Product Name:<input type="text" name="Name" value="@(Model != null ? Model.Name : "")" class="form-control" />
+    Name:<input type="text" name="Name" value="@(Model != null ? Model.Name : "")" class="form-control" />
     @Html.ValidationMessage("Name")
     <br />
 
-    Product Description:<input type="text" name="Description" value="@(Model != null ? Model.Description : "")" class="form-control" />
-    @Html.ValidationMessage("Description")
+    Date of Birth:<input type="date" name="Dob" value="@(Model != null ? Model.Dob : "")" class="form-control" />
+    @Html.ValidationMessage("Dob")
     <br />
+
+    Password:<input type="password" name="Password" value="@(Model != null ? Model.Password : "")" class="form-control" />
+    @Html.ValidationMessage("Password")
+    <br />
+
+    Confirm Password:<input type="password" name="confirmPassword" value="@(Model != null ? Model.confirmPassword : "")" class="form-control" />
+    @Html.ValidationMessage("confirmPassword")
+    <br />
+
+    Password:<input type="email" name="Email" value="@(Model != null ? Model.Email : "")" class="form-control" />
+    @Html.ValidationMessage("Email")
+    <br />
+
     <input type="submit" class="btn btn-success" />
 
 </form>
